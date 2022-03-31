@@ -1,0 +1,4 @@
+import_DPI open_server_fifo dpi_sv
+import_DPI print_simics_pkt_data dpi_sv
+import_DPI simics_dpi_request dpi_sv
+import_DPI simics_dpi_response dpi_sv

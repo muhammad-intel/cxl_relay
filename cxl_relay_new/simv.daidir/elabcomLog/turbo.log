@@ -1,0 +1,7 @@
+Command Line: /p/hdk/rtl/cad/x86-64_linux26/synopsys/vcsmx/P-2019.06-SP2-9/suse64/bin/elabcom -logdir /nfs/site/disks/xpg.sprmccfe.0019/rahman3x/simics_training/cxl_relay_new/./simv.daidir/elabcomLog -simvdaidir /nfs/site/disks/xpg.sprmccfe.0019/rahman3x/simics_training/cxl_relay_new/./simv.daidir -lib /nfs/site/disks/xpg.sprmccfe.0019/rahman3x/simics_training/cxl_relay_new/./simv.daidir/work -saveLevel -elab /nfs/site/disks/xpg.sprmccfe.0019/rahman3x/simics_training/cxl_relay_new/./simv.daidir/kdb -simflow -simdir /nfs/site/disks/xpg.sprmccfe.0019/rahman3x/simics_training/cxl_relay_new/./simv.daidir/kdb_libs -topfile /nfs/site/disks/xpg.sprmccfe.0019/rahman3x/simics_training/cxl_relay_new/./simv.daidir/.elabcomTopFile -ssv -ssy -Lf work +disable_message+C00380+C00381 +disable_message+C00388+C00389
+uname(Linux scff213102 4.12.14-122.60-default #1 SMP Mon Feb 1 20:52:25 UTC 2021 (cb56da1) x86_64)
+[INFO] error/warning message 'C00380' has been suppressed.
+[INFO] error/warning message 'C00381' has been suppressed.
+[INFO] error/warning message 'C00388' has been suppressed.
+[INFO] error/warning message 'C00389' has been suppressed.
+au time 0.070077 0.003592 0.017907 delta 93933568 93933568 total 194170880 194170880

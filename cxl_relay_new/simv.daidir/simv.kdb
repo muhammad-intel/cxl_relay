@@ -1,0 +1,21 @@
+rc file Version 1.0
+
+[Design]
+COMPILE_PATH=/nfs/site/disks/xpg.sprmccfe.0019/rahman3x/simics_training/cxl_relay_new
+VERDI_HOME=/p/hdk/rtl/cad/x86-64_linux26/synopsys/verdi3/P-2019.06-SP2-9
+SystemC=FALSE
+UUM=FALSE
+KDB=TRUE
+USE_NOVAS_HOME=FALSE
+COSIM=FALSE
+TOP=dpi_sv 
+OPTION=-ssv -ssy 
+ELAB_OPTION=-ssv -ssy 
+ELAB=TRUE
+SIMV_WRAPPER=FALSE
+[vcs]
+RUN_ELABCOM=unset TURBO_LOG_DIR ;\rm -rf /nfs/site/disks/xpg.sprmccfe.0019/rahman3x/simics_training/cxl_relay_new/./simv.daidir/elabcomLog ;/p/hdk/rtl/cad/x86-64_linux26/synopsys/vcsmx/P-2019.06-SP2-9/suse64/bin/elabcom -logdir /nfs/site/disks/xpg.sprmccfe.0019/rahman3x/simics_training/cxl_relay_new/./simv.daidir/elabcomLog  -simvdaidir /nfs/site/disks/xpg.sprmccfe.0019/rahman3x/simics_training/cxl_relay_new/./simv.daidir  -lib /nfs/site/disks/xpg.sprmccfe.0019/rahman3x/simics_training/cxl_relay_new/./simv.daidir/work  -saveLevel  -elab /nfs/site/disks/xpg.sprmccfe.0019/rahman3x/simics_training/cxl_relay_new/./simv.daidir/kdb -simflow -simdir /nfs/site/disks/xpg.sprmccfe.0019/rahman3x/simics_training/cxl_relay_new/./simv.daidir/kdb_libs -topfile /nfs/site/disks/xpg.sprmccfe.0019/rahman3x/simics_training/cxl_relay_new/./simv.daidir/.elabcomTopFile -ssv -ssy  -Lf work +disable_message+C00380+C00381 +disable_message+C00388+C00389  >& /dev/null  && echo Success >& /nfs/site/disks/xpg.sprmccfe.0019/rahman3x/simics_training/cxl_relay_new/./simv.daidir/.elabcomReport || echo Fail >& /nfs/site/disks/xpg.sprmccfe.0019/rahman3x/simics_training/cxl_relay_new/./simv.daidir/.elabcomReport; \rm -rf /nfs/site/disks/xpg.sprmccfe.0019/rahman3x/simics_training/cxl_relay_new/./simv.daidir/work.lib++ /nfs/site/disks/xpg.sprmccfe.0019/rahman3x/simics_training/cxl_relay_new/./simv.daidir/kdb_libs/ 
+
+[Value]
+WREALX=ffff534e50535f58
+WREALZ=ffff534e50535f5a

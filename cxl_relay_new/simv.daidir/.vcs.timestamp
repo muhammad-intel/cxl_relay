@@ -1,0 +1,149 @@
+0 
+40
++incdir+/nfs/site/disks/xpg.sprmccfe.0019/rahman3x/simics_training/cxl_relay_new
++itf+/p/hdk/rtl/cad/x86-64_linux26/synopsys/vcsmx/P-2019.06-SP2-9/suse64/lib/vcsdp_lite.tab
++libext+.v+.sv
++vcsd1
++vpi
+-Mamsrun=
+-Masflags=
+-Mcc=gcc
+-Mcfl= -pipe -fPIC -O -I/p/hdk/rtl/cad/x86-64_linux26/synopsys/vcsmx/P-2019.06-SP2-9/include
+-Mcplusplus=g++
+-Mcrt0=
+-Mcrtn=
+-Mcsrc=
+-Mexternalobj=
+-Mldflags= -rdynamic
+-Mobjects= /p/hdk/rtl/cad/x86-64_linux26/synopsys/vcsmx/P-2019.06-SP2-9/suse64/lib/libvirsim.so /p/hdk/rtl/cad/x86-64_linux26/synopsys/vcsmx/P-2019.06-SP2-9/suse64/lib/liberrorinf.so /p/hdk/rtl/cad/x86-64_linux26/synopsys/vcsmx/P-2019.06-SP2-9/suse64/lib/libsnpsmalloc.so /p/hdk/rtl/cad/x86-64_linux26/synopsys/vcsmx/P-2019.06-SP2-9/suse64/lib/libvfs.so
+-Mout=./simv
+-Msaverestoreobj=/p/hdk/rtl/cad/x86-64_linux26/synopsys/vcsmx/P-2019.06-SP2-9/suse64/lib/vcs_save_restore_new.o
+-Msyslibs=/p/hdk/rtl/cad/x86-64_linux26/synopsys/verdi3/P-2019.06-SP2-9/share/PLI/VCS/SUSE64/pli.a -ldl
+-Mvcsaceobjs=
+-Mxcflags= -pipe -fPIC -I/p/hdk/rtl/cad/x86-64_linux26/synopsys/vcsmx/P-2019.06-SP2-9/include
+-P
+-Xufe=2steps
+-debug_acc+all
+-fsdb
+-full64
+-gen_obj
+-kdb
+-l
+-lca
+-o ./simv
+-picarchive
+-sverilog
+-y
+/p/hdk/rtl/cad/x86-64_linux26/synopsys/vcsmx/P-2019.06-SP2-9/suse64/bin/vcs1
+compile.log
+./simv
+/p/hdk/rtl/cad/x86-64_linux26/synopsys/verdi3/P-2019.06-SP2-9/share/PLI/VCS/SUSE64/verdi.tab
+/nfs/site/disks/xpg.sprmccfe.0019/rahman3x/simics_training/cxl_relay_new
+/nfs/site/disks/xpg.sprmccfe.0019/rahman3x/simics_training/cxl_relay_new/dpi_sv.sv
+94
+gold=/nfs/site/disks/xpg_sprsp_0307/users/gold
+cosim=/nfs/site/disks/xpg.sprmccfe.0019/rahman3x
+__NB_USER_LOG_FILE=/dev/null
+__NB_UNIQUE_EXEC_ID=60075
+__NB_TIMES_RESTARTED=0
+__NB_SUBMIT_PWD=/tmp
+__NB_SUBMITTING_USER=rahman3x
+__NB_RUNNING_ON_DYNAMIC_WSM=false
+__NB_QUEUE=sc_interactive
+__NB_QSLOT=IVE/PHG/tool
+__NB_POOL=sc_ion
+__NB_LOG_FILE=/dev/null
+__NB_LOCAL_BIN=/var/netstar/bin
+__NB_JOBID=sc_ion.821351368
+__NB_INTERACTIVE_SESSIONID=sc_ion.821351368
+__NB_HOME=/nfs/sc/disks/ec_netbatch/install/8.4.4_0949_19
+__NB_CLASSRESERVATION=int_users=1,cores=1,int_memory=66.7,memory=66.7,int_cores=1
+__NB_CLASS=(SLES12) && (tool)
+XTERM_VERSION=X.Org 7.7.0(308)
+XTERM_SHELL=/usr/intel/bin/tcsh
+XTERM_LOCALE=en_US.UTF-8
+XNLSPATH=/usr/share/X11/nls
+XKEYSYMDB=/usr/X11R6/lib/X11/XKeysymDB
+XDG_DATA_DIRS=/usr/share
+XDG_CONFIG_DIRS=/etc/xdg
+XDG_CACHE_HOME=/tmp/kdecache-rahman3x
+XCURSOR_THEME=Industrial
+VMR_MODE_FLAG=64
+VERDI_HOME=/p/hdk/rtl/cad/x86-64_linux26/synopsys/verdi3/P-2019.06-SP2-9
+VENDOR=unknown
+VCS_MX_HOME_INTERNAL=1
+VCS_MODE_FLAG=64
+VCS_LOG_FILE=compile.log
+VCS_LCAMSG_PRINT_OFF=1
+VCS_HOME=/p/hdk/rtl/cad/x86-64_linux26/synopsys/vcsmx/P-2019.06-SP2-9
+VCS_EM64T_PURE64=1
+VCS_DEPTH=0
+VCS_ARG_ADDED_FOR_TMP=1
+VCS_ARCH=suse64
+USER_ITOOLS=/nfs/site/home/rahman3x/.itools
+UNAME=/bin/uname
+TOOL_HOME=/p/hdk/rtl/cad/x86-64_linux26/synopsys/vcsmx/P-2019.06-SP2-9/suse64
+SNPS_VERDI_INTERNAL_LP_XML_NEW_FLOW=1
+SCRNAME=vcs
+SCRIPT_NAME=vcs
+RTLD_DEEPBIND=0
+QT_SYSTEM_DIR=/usr/share/desktop-data
+PYTHONSTARTUP=/etc/pythonstart
+OVA_UUM=0
+OSTYPE=linux
+OS=linux
+NNTPSERVER=news.intel.com
+MYSQL_HISTFILE=/dev/null
+MORE=-sl
+MINICOM=-c on
+MFLAGS=
+MAKELEVEL=1
+MAKEFLAGS=
+LS_OPTIONS=-N --color=tty -T 0
+LM_PROJECT=SC_ROOT_UNKN
+LESS_ADVANCED_PREPROCESSOR=no
+LESSOPEN=lessopen.sh %s
+LESSKEY=/etc/lesskey.bin
+LESSCLOSE=lessclose.sh %s %s
+LESS=-M -I -R
+LC_COLLATE=C
+LC_ALL=C
+JRE_HOME=/usr/lib64/jvm/jre-openjdk
+JAVA_ROOT=/usr/lib64/jvm/jre-openjdk
+JAVA_HOME=/usr/lib64/jvm/jre-openjdk
+JAVA_BINDIR=/usr/lib64/jvm/jre-openjdk/bin
+INPUTRC=/etc/inputrc
+HOSTTYPE=x86_64-linux
+G_FILENAME_ENCODING=@locale,UTF-8,ISO-8859-15,CP1252
+G_BROKEN_FILENAMES=1
+GROUP=user
+GROFF_NO_SGR=yes
+FVWM_USERDIR=/nfs/site/home/rahman3x
+FROM_HEADER=
+EC_ZONE=sc
+EC_UNAME=Linux_4.12.14-122.60-default_x86_64
+EC_SITECODE=SC
+EC_SITE=sc
+EC_OU=sc
+EC_ENV_ROOT=/usr/intel/pkgs/eclogin/1.0
+EC_ENV_PROJ=default
+CXL_RELAY_SERVER_PATH=/nfs/site/disks/xpg.sprmccfe.0019/rahman3x/simics_training/cxl_relay_new
+CXL_RELAY_SERVER_IP=127.0.0.1
+CXL_RELAY_LOG_PATH=/tmp
+CVS_RSH=ssh
+CSHRCREAD=true
+CSHEDIT=emacs
+CPU=x86_64
+COLORTERM=1
+0
+3
+1646767500 /nfs/site/disks/xpg.sprmccfe.0019/rahman3x/simics_training/cxl_relay_new/dpi_sv.sv
+1603189481 /p/hdk/rtl/cad/x86-64_linux26/synopsys/verdi3/P-2019.06-SP2-9/share/PLI/VCS/SUSE64/verdi.tab
+1604113866 /p/hdk/rtl/cad/x86-64_linux26/synopsys/vcsmx/P-2019.06-SP2-9/suse64/lib/vcsdp_lite.tab
+4
+1604114717 /p/hdk/rtl/cad/x86-64_linux26/synopsys/vcsmx/P-2019.06-SP2-9/suse64/lib/libvirsim.so
+1604114467 /p/hdk/rtl/cad/x86-64_linux26/synopsys/vcsmx/P-2019.06-SP2-9/suse64/lib/liberrorinf.so
+1604114425 /p/hdk/rtl/cad/x86-64_linux26/synopsys/vcsmx/P-2019.06-SP2-9/suse64/lib/libsnpsmalloc.so
+1604114465 /p/hdk/rtl/cad/x86-64_linux26/synopsys/vcsmx/P-2019.06-SP2-9/suse64/lib/libvfs.so
+1648541145 ./simv.daidir
+-1 partitionlib
